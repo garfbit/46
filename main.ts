@@ -7,5 +7,5 @@ while (n > 0) {
         c += 1
     }
     n = n / 10
-    basic.showNumber(c)
 }
+basic.showNumber(c)
